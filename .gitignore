@@ -1,0 +1,4 @@
+.idea/
+bookingservice/obj/
+bookingservice/appsettings.Development.json
+bookingservice/appsettings.json
