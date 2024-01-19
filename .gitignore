@@ -2,3 +2,6 @@
 bookingservice/obj/
 bookingservice/appsettings.Development.json
 bookingservice/appsettings.json
+bookingservice/bin/Debug/net7.0/appsettings.Development.json
+bookingservice/bin/Debug/net7.0/appsettings.json
+bookingservice/bin/
