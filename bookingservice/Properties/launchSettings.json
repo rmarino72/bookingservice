@@ -16,7 +16,16 @@
       "launchUrl": "swagger",
       "applicationUrl": "http://localhost:5094",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "PLATFORM_DB_NAME": "bookingservice",
+        "PLATFORM_DB_HOST": "localhost",
+        "PLATFORM_DB_PORT": "3306",
+        "PLATFORM_DB_USER": "booking_user",
+        "PLATFORM_DB_PASSWORD": "booking_user",
+        "SMTP_HOST": "app.debugmail.io",
+        "SMTP_PORT": "25",
+        "SMTP_USER": "d68c1e48-2828-4a9c-8730-d8f841f512f7",
+        "SMTP_PASSWORD": "a5595b1f-4e78-4605-9007-2662ed7e18a7"
       }
     }
   }
